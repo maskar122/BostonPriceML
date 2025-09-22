@@ -14,6 +14,12 @@ The goal is to build a model capable of predicting housing prices in Boston usin
 
 ---
 
+## 🖼️ Project Demo
+
+![🏡 Predicting Boston Housing Price_demo](https://github.com/maskar122/BostonPriceML/blob/4d7552058a97ab51ea19a9dcf56e747c2d852de6/images/Screenshot%20(593).png)
+
+
+
 ## 📂 Steps in the Project
 
 ### 1. Data Exploration
